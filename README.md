@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Getahun Tiruneh</h1>
-<h3 align="center">A passionate Data Scince</h3>
+<h3 align="center">"A passionate Data Scientist"</h3>
 
 - 🔭 I’m currently working on **CBE**
 
