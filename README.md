@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Getahun Tiruneh</h1>
-<h3 align="center">"A passionate Data Scientist"</h3>
+<h3 align="center">"A driven Data Scientist eager to explore and implement data-driven solutions"</h3>
 
-- 🔭 I’m currently working on **CBE**
+- 🔭 I’m currently working on **Data**
 
 - 👯 I’m looking to collaborate on **Data Scince Project**
 
