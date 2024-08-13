@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Data Scince Project**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://getahuntiruneh.netlify.app/)
+- 👨‍💻 All of my projects are available at **[portfolio](https://getahuntiruneh.netlify.app/)**
 
 - 📫 How to reach me **gechtiru@gmail.com**
 
