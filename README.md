@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Getahun Tiruneh</h1>
 <h3 align="center">"A driven Data Scientist eager to explore and implement data-driven solutions"</h3>
 <img align="right" alt"coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-- 🔭 I’m currently working on **Data**
-
-- 👯 I’m looking to collaborate on **Data Scince Project**
-
-- 👨‍💻 All of my projects are available at **[Portfolio](https://getahuntiruneh.netlify.app/)**
+🔭 I’m currently working on Data<br>
+👯 I’m looking to collaborate on **Data Scince Project**<br>
+👨‍💻 All of my projects are available at **[Portfolio](https://getahuntiruneh.netlify.app/)**
 
 
 ## 🌐 Socials:
