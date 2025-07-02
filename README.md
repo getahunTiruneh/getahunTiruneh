@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Getahun Tiruneh</h1>
-<h3 align="center">"A driven Data Scientist eager to explore and implement data-driven solutions"</h3>
-<img align="right" alt"coding" width="400" src="https://ai.esmplus.com/ps820407/NEW%20COSY/KB2157BT/KB2157BT-01.gif">
-🔭 I’m currently working on Data<br>
-👯 I’m looking to collaborate on **Data Scince Project**<br>
-👨‍💻 All of my projects are available at **[Portfolio](https://getahuntiruneh.netlify.app/)**
+<h3 align="center">A Passionate Data Scientist on a Journey to Turn Data into Impact</h3>
+
+<img align="right" alt="coding" width="400" src="https://a-us.storyblok.com/f/1004007/706x398/40514eadcb/terzo-data.gif">
+
+🔍 I'm deeply interested in solving real-world problems using data-driven solutions.<br>
+🎯 Currently engaged in building analytical solutions across the finance and insurance sectors.<br>
+🤝 I'm open to collaboration on impactful Data Science and AI projects.<br>
+📊 Skilled in data wrangling, machine learning, visualization, and model deployment.<br>
+🚀 Continuously learning and exploring the intersection of AI, analytics, and decision-making.<br>
+📂 You can explore all my projects on my <a href="https://getahuntiruneh.netlify.app/" target="_blank"><strong>Portfolio</strong></a>.<br>
 
 
 ## 🌐 Socials:
