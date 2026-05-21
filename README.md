@@ -100,13 +100,6 @@ print(me.mission())
 <img width="49%" src="https://metrics.lecoq.io/getahuntiruneh?template=classic&config.timezone=Africa/Addis_Ababa&base=header,activity,community&theme=tokyonight&config.display=regular" alt="Getahun's GitHub Analytics" />
 <!-- Contribution Streak Card (Your reliably working card) -->
 <img width="49%" src="https://streak-stats.demolab.com?user=getahuntiruneh&theme=tokyonight&hide_border=true" alt="Getahun's GitHub Streak" />
-
-<br/><br/>
-
-<!-- Native Visual Language Metric & Activity Pulse -->
-<h3>💻 Language Distribution & Activity Pulse</h3>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=getahuntiruneh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Pulse" />
-
 </div>
 
 ---
