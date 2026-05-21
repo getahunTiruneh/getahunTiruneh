@@ -1,25 +1,25 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,50:0f172a,100:1e3a8a&height=220&section=header&text=Getahun%20Tiruneh&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Analytics%20Builder&descAlignY=62&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0f172a,100:047857&height=220&section=header&text=Getahun%20Tiruneh&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Analytics%20Builder&descAlignY=62&descSize=18&animation=fadeIn"/>
 
-<!-- TYPING SVG (FIXED & STABLE) -->
+<!-- TYPING SVG (DYNAMIC & COHESIVE) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Turning+Data+into+Intelligent+Systems+🚀;Machine+Learning+%7C+Deep+Learning+%7C+Data+Engineering;Building+AI+Solutions+That+Matter+📊;Finance+%26+Risk+Analytics+Focus+💡;Clean+Code+%7C+Scalable+Systems+%7C+Real+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Turning+Data+into+Intelligent+Systems+🚀;Machine+Learning+%7C+Deep+Learning+%7C+Data+Engineering;Building+AI+Solutions+That+Matter+📊;Finance+%26+Risk+Analytics+Focus+💡;Clean+Code+%7C+Scalable+Systems+%7C+Real+Impact" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=getahuntiruneh&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+<!-- METRICS BADGES -->
+<img src="https://komarev.com/ghpvc/?username=getahuntiruneh&label=Profile%20Views&color=10b981&style=for-the-badge&labelColor=0f172a" />
 &nbsp;
 <a href="https://github.com/getahuntiruneh?tab=followers">
-  <img src="https://img.shields.io/github/followers/getahuntiruneh?label=Followers&style=for-the-badge&color=1e3a8a" />
+  <img src="https://img.shields.io/github/followers/getahuntiruneh?label=Followers&style=for-the-badge&color=047857&labelColor=0f172a" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-22D3EE?style=for-the-badge&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/Location-Ethiopia-38BDF8?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-10B981?style=for-the-badge&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-34d399?style=for-the-badge&labelColor=0f172a" />
 
 </div>
 
@@ -36,7 +36,7 @@ class DataScientist:
         self.focus       = ["Finance", "Insurance", "Predictive Analytics"]
         self.learning    = ["LLMs", "MLOps", "Causal Inference"]
         self.open_to     = "Collaboration on impactful AI & Data Science projects"
-        self.portfolio   = "https://getahuntiruneh.netlify.app/"
+        self.portfolio   = "[https://getahuntiruneh.netlify.app/](https://getahuntiruneh.netlify.app/)"
  
     def mission(self):
         return "Transform complex data into decisions that matter."
@@ -45,7 +45,6 @@ me = DataScientist()
 print(me.mission())
 # → "Transform complex data into decisions that matter."
 ```
- 
 ---
 
 ## 🌐 Connect With Me
@@ -81,108 +80,65 @@ print(me.mission())
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Technical Ecosystem
 
 <div align="center">
 
-<table>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 Languages
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Machine Learning & AI
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Data & Visualization
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<br/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ Cloud & MLOps
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</td>
-</tr>
-
-</table>
+| **Languages & Core** | **Machine Learning & Deep Learning** |
+| :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) <br> ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Data Engineering & Viz** | **Cloud, MLOps & Architecture** |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) <br> ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) <br> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
- ## 📊 GitHub Stats
+## 📊 GitHub Stats & Open Source Metrics
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img width="48%" 
-src="https://github-readme-stats.vercel.app/api?username=getahuntiruneh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-
-<!-- GitHub Streak -->
-<img width="48%" 
-src="https://streak-stats.demolab.com?user=getahuntiruneh&theme=radical&hide_border=true" />
+<!-- Rebuilt Core Analytics using the ultra-stable lowlighter engine -->
+<img width="49%" src="https://metrics.lecoq.io/getahuntiruneh?template=classic&config.timezone=Africa/Addis_Ababa&base=header,activity,community&theme=tokyonight&config.display=regular" alt="Getahun's GitHub Analytics" />
+<!-- Contribution Streak Card (Your reliably working card) -->
+<img width="49%" src="https://streak-stats.demolab.com?user=getahuntiruneh&theme=tokyonight&hide_border=true" alt="Getahun's GitHub Streak" />
 
 <br/><br/>
 
-<!-- Top Languages -->
-<img width="60%" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=getahuntiruneh&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<!-- Native Visual Language Metric & Activity Pulse -->
+<h3>💻 Language Distribution & Activity Pulse</h3>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=getahuntiruneh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Pulse" />
 
 </div>
+
 ---
 
-## 🔝 Top Contributed Repos
+## 🚀 Featured AI & Data Engineering Solutions
 
-<div align="center">
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=getahuntiruneh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📦 Adera Marketplace</h4>
+      <p>A trusted, high-value digital commerce platform tailored for electronics, fashion, and real estate, built with modern web architecture.</p>
+      <code>TypeScript</code> <code>React</code> <code>Tailwind CSS</code> <code>Supabase</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💡 Financial Risk Analytics Engine</h4>
+      <p>Predictive pipeline built to optimize credit risk assessment and financial modeling using ensemble learning methods.</p>
+      <code>Python</code> <code>XGBoost</code> <code>Scikit-Learn</code> <code>MLflow</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Insurance Claim NLP Automation</h4>
+      <p>End-to-end unstructured data pipeline leveraging Large Language Models and HuggingFace for claims intelligence.</p>
+      <code>Transformers</code> <code>FastAPI</code> <code>Docker</code> <code>AWS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Automated Data Orchestration Pipeline</h4>
+      <p>Scalable, production-ready ETL workflows managing data sync and transformations smoothly across distributed environments.</p>
+      <code>Apache Airflow</code> <code>SQL</code> <code>Docker</code> <code>Python</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
