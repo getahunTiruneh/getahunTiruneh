@@ -52,7 +52,7 @@ print(me.mission())
 <div align="center">
 
 <!-- Portfolio (Using a custom professional emerald to tie into your theme) -->
-<a href="https://getahuntiruneh.netlify.app/">
+<a href="https://getahuntiruneh.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
