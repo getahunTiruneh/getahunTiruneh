@@ -36,7 +36,7 @@ class DataScientist:
         self.focus       = ["Finance", "Insurance", "Predictive Analytics"]
         self.learning    = ["LLMs", "MLOps", "Causal Inference"]
         self.open_to     = "Collaboration on impactful AI & Data Science projects"
-        self.portfolio   = "[https://getahuntiruneh.netlify.app/](https://getahuntiruneh.netlify.app/)"
+        self.portfolio   = "[https://getahuntiruneh.vercel.app/](https://getahuntiruneh.vercel.app/)"
  
     def mission(self):
         return "Transform complex data into decisions that matter."
